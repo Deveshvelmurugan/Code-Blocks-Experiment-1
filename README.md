@@ -82,9 +82,8 @@ int main() {
 }
 ~~~
 
-🖥️ Sample Output
-<img width="1911" height="891" alt="Screenshot 2025-09-19 093532" src="https://github.com/user-attachments/assets/7b1ec432-7a58-4032-a2a7-89bd4d94e340" />
-
+🖥️ Output
+<img width="1919" height="882" alt="image" src="https://github.com/user-attachments/assets/e02db549-a75e-40ac-a87c-75d0e7cac193" />
 
 ✅ Result
 
